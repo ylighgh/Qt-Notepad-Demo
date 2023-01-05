@@ -18,9 +18,6 @@ cd Qt-Notepad-Demo && qmake -o dist/ && cd dist && make
 
 *运行*
 ```
-# 进入dist文件夹
-cd Qt-Notepad-Demo/dist/
-
 # 运行项目
 ./Notepad
 ```
