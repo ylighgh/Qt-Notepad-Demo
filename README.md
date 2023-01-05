@@ -13,7 +13,7 @@ mkdir -p ~/workspace/qt
 cd ~/workspace/qt && git clone https://github.com/ylighgh/Qt-Notepad-Demo.git
 
 # 进入文件夹并编译
-cd Qt-Notepad-Demo && qmake -o dist\ && cd dist && make
+cd Qt-Notepad-Demo && qmake -o dist/ && cd dist && make
 ```
 
 *运行*
